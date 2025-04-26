@@ -112,7 +112,7 @@ class AboutDialog(QDialog):
         <p>Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
         Dokumentationen (die "Software") erhält, die Erlaubnis erteilt, sie uneingeschränkt zu nutzen,
         inklusive und ohne Ausnahme mit dem Recht, sie zu verwenden, zu kopieren, zu verändern, zusammenzuführen,
-        zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder zu verkaufen, und Personen, denen diese
+        zu veröffentlichen, zu verbreiten und/oder zu unterlizenzieren, und Personen, denen diese
         Software überlassen wird, diese Rechte zu verschaffen, unter den folgenden Bedingungen:</p>
         
         <p>Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder Teilkopien
